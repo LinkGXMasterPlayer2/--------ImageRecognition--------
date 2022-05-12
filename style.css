@@ -1,0 +1,49 @@
+body {
+
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(black, gray, white);
+}
+
+.heading {
+
+    width: 80%;
+    font-size: 22px;
+    font-family: fantasy;
+}
+
+#Roblox {
+
+    color: rgb(255, 0, 0);
+
+}
+
+#headset {
+
+    color: rgb(255, 0, 204);
+}
+
+#Ring {
+
+    color: rgb(0, 157, 255);
+}
+
+#Glue {
+
+    color: rgb(47, 139, 26);
+
+}
+
+#iPhone {
+
+    color: rgb(208, 255, 0);
+}
+
+#camera {
+
+
+    border: 2px dashed goldenrod;
+    width: 350px;
+    height: 300px;
+
+}
